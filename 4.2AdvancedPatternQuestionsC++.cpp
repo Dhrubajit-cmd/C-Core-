@@ -26,5 +26,12 @@ int main(){
     }
      cout << endl ; 
    }
+// Rhombus Pattern 
+  int c ;
+  cout << "Enter the number of rows you want: " << endl ;
+  cin >> c ;
+  for(int i =1 ; i <= c ; i++){
+    
+  }
     return 0 ; 
 }
